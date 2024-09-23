@@ -1,0 +1,12 @@
+29edb2e7fd88cb3242aabc117ce70c83 *DESCRIPTION
+e5b967802c6b5f19e59500f5ce9df3ff *NAMESPACE
+b516b09ef8699b9936997433f48499d1 *R/Functions.R
+c997adeeb8f9731ff7106d615cd47d7a *data/RealData.ROT.rda
+31dcbf647cc875c1cbbb7db7637f985e *data/SimData.APL.rda
+00d433a003e3250559a3dee69cefe63c *data/SimData.TVC.rda
+339247a804d2aed721634820a604c08c *man/RealData.ROT.Rd
+0aa684babacfa487a9c05462be8aecf4 *man/SimData.APL.Rd
+4dc221e82e4dc2e8fa2f7114a798f010 *man/SimData.TVC.Rd
+bba5ad7335d45a7067160052833c17e1 *man/SurvMA.Fit.Rd
+639de88c203d1ef13ec6384bce0f9322 *man/SurvMA.Predict.Rd
+eba587704cc178a5c6bf5ee56187c468 *man/SurvMA.Rd
